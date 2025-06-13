@@ -6,10 +6,10 @@ subtitle: This is where I update my qualifications
 
 My name is Sidrah, and I've explored a lot of possibilities:
 
-- instructor
-- data scientist
-- product manager
-- designer
+- being a tech instructor
+- getting a data scientist certification
+- volunteering as a product manager
+- playing around with designing
 
 You will find most of my resources here.
 
