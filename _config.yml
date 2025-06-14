@@ -59,9 +59,9 @@ social-network-links:
   patreon: DeanAttali
   youtube: "@daattali"
   whatsapp: 15551212
-#  medium: yourname
-#  reddit: yourname or r/yoursubreddit
-   linkedin: daattali
+# medium: yourname
+# reddit: yourname or r/yoursubreddit
+  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -76,9 +76,9 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  bluesky: yourname
 #  ORCID: your ORCID ID
-   google-scholar: your google scholar
-   discord: "invite_code" or "users/userid" or "invite/invite_code"
-   kaggle: yourname
+  google-scholar: your google scholar
+  discord: "invite_code" or "users/userid" or "invite/invite_code"
+  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
 #  itchio: yourname
