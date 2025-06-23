@@ -1,2 +1,3 @@
 name: Sidrah Abdullah, soon-to-be Dr.
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
